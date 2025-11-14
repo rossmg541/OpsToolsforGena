@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Loom | Free Screen &amp; Video Recording Software | Loom</title>
+
+
+<meta name="slack-app-id" content="A9G1TH4S2">
+
+<!-- SEO -->
+<meta name="application-name" content="Loom" />
+  <meta name="description" content="Use Loom to record quick videos of your screen and cam. Explain anything clearly and easily – and skip the meeting. An essential tool for hybrid workplaces." />
+
+  <!-- open graph and twitter tags -->
+    <meta property="og:site_name" content="Loom">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.loom.com">
+  <meta property="og:title" content="Loom | Free Screen &amp; Video Recording Software">
+      <meta property="og:description" content="Use Loom to record quick videos of your screen and cam. Explain anything clearly and easily – and skip the meeting. An essential tool for hybrid workplaces." />
+    <meta property="og:image" content="https://cdn.loom.com/assets/img/og/loom-banner.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="600">
+  <meta name="twitter:card" content="summary_large_image" />
+
+
+
+
+<!-- Web App Icons -->
+<meta name="application-name" content="Loom">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Loom">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-TileImage" content="https://cdn.loom.com/assets/favicons-loom/mstile-150x150.png">
+
+<link rel="icon" href="https://cdn.loom.com/assets/favicons-loom/favicon.ico" sizes="any">
+<link rel="icon" href="https://cdn.loom.com/assets/favicons-loom/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.loom.com/assets/favicons-loom/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://cdn.loom.com/assets/favicons-loom/android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.loom.com/assets/favicons-loom/apple-touch-icon-180x180.png">
+<link rel="mask-icon" color="#625df5" href="https://cdn.loom.com/assets/favicons-loom/safari-pinned-tab.svg">
+
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/3791-9b50fafa7bd4dee7d48c.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/5368-948217a0bd6d0d47734b.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/8166-aff684bb6b563543d373.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/9639-aa9318da55e275de0142.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/8315-f5d74120c254fdb47899.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/8651-465cc3c90e755ae08e8a.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/686-34ad0a03a7fe9e7f9bf9.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/6170-59e1ef00327c348f0910.css" />
+
+  <link rel="stylesheet" href="https://cdn.loom.com/assets/css/destination-afb19ef11860c0c23e7b.css" />
+
+
+<script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF">
+  window._LOOM_ = "%7O%22OVYYVAT_ERPNCGPUN_FVGR_XRL%22%3N%226Yq-a7bHNNNNNWKXybyTXC7sCMus-WzaKnlg9CA5%22%2P%22PUEBZR_RKGRAFVBA_VQ%22%3N%22yvrpoqqzxvvvuarqbozyzvyyubqwxqzo%22%2P%22PYVRAG_YBT_YRIRYF%22%3N%22sngny%2Preebe%2Pjnea%2Pvasb%22%2P%22PYBHQSEBAG_HEV%22%3N%22pqa.ybbz.pbz%22%2P%22NIFREIRE_PYBHQSEBAG_HEV%22%3N%22yhan.ybbz.pbz%22%2P%22RYRIVB_NPPBHAG_VQ%22%3N%225p7qp041087r9%22%2P%22TBBTYR_NCV_PYVRAG_VQ%22%3N%22443240113960-6zw529e3e24tcc4p9h57a9aqet01v911.nccf.tbbtyrhfrepbagrag.pbz%22%2P%22YBBZ_QRFXGBC_CEBGBPBY%22%3N%22ybbzQrfxgbc%3N%2S%2S%22%2P%22ZHK_RAI_XRL%22%3N%229ntt7cyq771c850zs45zfatc3%22%2P%22CHFU_FREIRE_CHOYVP_XRL%22%3N%22OSMAlOrBig4yrVK8OhRu7u2-7lFWCL2bSfWdV5HyfTxa57ZKc924pqoufgdF69Uz-IYo1wXEEm4LnRu7qTeFKFZ%22%2P%22FGEVCR_CHOYVP_XRL%22%3N%22cx_yvir_ZT87GpsZRyPHEEBsexfSFZ8k%22%2P%22QNGNQBT_EHZ_NCCYVPNGVBA_VQ%22%3N%227ns92855-r997-4q9o-nn41-839r1p64r6s3%22%2P%22QNGNQBT_EHZ_PYVRAG_GBXRA%22%3N%22choo1955571qp736r541o72313p6942242s%22%2P%22QNGNQBT_EHZ_RANOYR%22%3N%22gehr%22%2P%22QNGNQBT_EHZ_FREIVPR%22%3N%22ybbz-cebq%22%2P%22QNGNQBT_EHZ_FRFFVBA_FNZCYR_ENGR%22%3N%2215%22%2P%22QNGNQBT_EHZ_FRFFVBA_ERCYNL_FNZCYR_ENGR%22%3N%2215%22%2P%22QNGNQBT_YBT_PYVRAG_GBXRA%22%3N%22cho6n5r653719oonqp7o8q28o628o09oq41%22%2P%22QNGNQBT_YBT_RANOYR%22%3N%22gehr%22%2P%22QNGNQBT_YBT_FNZCYR_ENGR%22%3N%2210%22%2P%22QNGNQBT_YBT_FREIVPR%22%3N%22jroncc%22%2P%22YBBZ_FQX_NCV_XRL%22%3N%22677no500-qo70-4087-91ns-6rsqo06sss68%22%2P%22PNAAL_VB_NCC_VQ%22%3N%2258n6799q8q61o9968qnq922n%22%2P%22PBURER_PYVRAG_XRL%22%3N%22J-YswQFDvvMv-ud7T761GKB1%22%2P%22CNPXNTRF_PYBHQSEBAG_HEV%22%3N%22cnpxntrf.ybbz.pbz%22%2P%22FRAGEL_ERCYNLF_BA_REEBE_FNZCYR_ENGR%22%3N%220.001%22%2P%22SO_NCC_VQ%22%3N%221591221991190878%22%2P%22NQZVA_UHO_HEV%22%3N%22nqzva.ngynffvna.pbz%22%2P%22NABA_PBBXVR_QBZNVA%22%3N%22ybbz.pbz%22%2P%22NGYNFFVNA_PYBHQ_BCRENGVBANY_HEV%22%3N%22uggcf%3N%2S%2Spybhq-bcrengvbany.cebq.ngy-cnnf.arg%2Spybhq-cebivfvbare%2Sgranag-qnfuobneq%22%2P%22NGYNFFVNA_TBIREANGBE_HEV%22%3N%22uggcf%3N%2S%2Stbireangbe-hv.cebq-rnfg.sebagraq.choyvp.ngy-cnnf.arg%22%2P%22NGYNFFVNA_BVQP_VAVGVNGVBA_EBHGR%22%3N%22uggcf%3N%2S%2Svq.ngynffvna.pbz%22%2P%22NGYNFFVNA_CEBSVYR_ZNANTRZRAG_HEV%22%3N%22uggcf%3N%2S%2Svq.ngynffvna.pbz%2Sznantr-cebsvyr%2Scebsvyr-naq-ivfvovyvgl%22%2P%22NGYNFFVNA_FABBCE_HEV%22%3N%22uggcf%3N%2S%2Sfabbce.cebq.ngy-cnnf.arg%2Spf%22%2P%22YBBZ_ONER_HEV%22%3N%22ybbz.pbz%22%2P%22YBBZ_ERPBEQ_JF_HEV%22%3N%22erpbeq.ybbz.pbz%22%2P%22YBBZ_FFE_HFRE_FUNQBJ_GRFG_RANOYR%22%3N%22gehr%22%2P%22YBBZ_FFE_HFRE_FUNQBJ_GRFG_VTABER_CNGUF%22%3N%22%5O%5Q%22%2P%22YBBZ_HEV%22%3N%22jjj.ybbz.pbz%22%2P%22YBBZ_IREFVBA%22%3N%229p71r89%22%2P%22YBBZ_IREFVBA_AHZREVP%22%3N57826%2P%22ABQR_RAI%22%3N%22cebqhpgvba%22%7Q";
+
+
+  window.workspaceSize = 31
+
+
+  window.__APOLLO_STATE__ = {"Avatar:{\"thumb\":\"avatars/30924329_74e82482af7b4ef08dd2fc2d58393476_192.jpg\"}":{"__typename":"Avatar","large":"avatars/30924329_74e82482af7b4ef08dd2fc2d58393476_1024.jpg","name":"74e82482af7b4ef08dd2fc2d58393476","thumb":"avatars/30924329_74e82482af7b4ef08dd2fc2d58393476_192.jpg"},"Organization:19606147":{"__typename":"Organization","id":"19606147","is_pure_trial":false,"name":"Typeface","type":"business","hidden":false,"site_id":null},"OrganizationMember:34771117":{"__typename":"OrganizationMember","id":"34771117","member_role":"creator_lite","member_status":"active","organization":{"__ref":"Organization:19606147"}},"OAuth:U0659D3EWCS":{"__typename":"OAuth","id":"U0659D3EWCS","createdAt":"2024-09-06T15:12:20.307Z","email":"ross@typeface.ai","external_avatar":"https://avatars.slack-edge.com/2023-11-10/6182748859604_c60473b86ac6de73fc39_512.jpg","medium":"slack-openid-connect","team_domain":"typefaceai","team_id":null,"team_name":"Typeface","updatedAt":"2024-09-06T15:12:20.307Z"},"RegularUser:30924329":{"__typename":"RegularUser","id":"30924329","aa_date_linked":null,"aa_date_mastered":null,"aa_id":null,"aa_is_mastered":false,"email":"ross@typeface.ai","first_name":"Ross","last_name":"Guthrie","account_type":"team","aiAccess":{"__typename":"AiAccess","autoTitles":true,"autoSummaries":true,"autoChapters":true,"autoTasks":true},"availableFtux":[{"__typename":"AvailableFtux","name":"global_limit_banner","priority":0},{"__typename":"AvailableFtux","name":"member_video_limit_banner","priority":0},{"__typename":"AvailableFtux","name":"workspace_content_limit_banner","priority":0},{"__typename":"AvailableFtux","name":"recorder_download_banner","priority":1},{"__typename":"AvailableFtux","name":"creator_lite_member_limit_banner","priority":0},{"__typename":"AvailableFtux","name":"continue_watching_mobile_banner","priority":1},{"__typename":"AvailableFtux","name":"approaching_limit_banner","priority":1},{"__typename":"AvailableFtux","name":"mobile_download_banner","priority":1},{"__typename":"AvailableFtux","name":"member_video_threshold_banner","priority":1},{"__typename":"AvailableFtux","name":"web_permissions_banner","priority":1},{"__typename":"AvailableFtux","name":"data_retention_banner","priority":1},{"__typename":"AvailableFtux","name":"global_admin_dunning_banner","priority":0},{"__typename":"AvailableFtux","name":"global_admin_payment_authentication_banner","priority":0},{"__typename":"AvailableFtux","name":"eoy_2024_ftux","priority":0},{"__typename":"AvailableFtux","name":"seasonal_launch_tour","priority":0},{"__typename":"AvailableFtux","name":"incentives_page_side_nav_ftux","priority":2},{"__typename":"AvailableFtux","name":"share_page_onboarding_welcome_ftux","priority":1},{"__typename":"AvailableFtux","name":"audio_variables_share_page_ftux","priority":2},{"__typename":"AvailableFtux","name":"audio_variables_edit_page_welcome_ftux","priority":0},{"__typename":"AvailableFtux","name":"audio_variables_edit_page_replacement_table_ftux","priority":0},{"__typename":"AvailableFtux","name":"consolidated_edit_ftux","priority":0},{"__typename":"AvailableFtux","name":"calendar_automations_viewed","priority":0},{"__typename":"AvailableFtux","name":"overlays_waveform_ftux","priority":0},{"__typename":"AvailableFtux","name":"overlays_button_ftux","priority":0},{"__typename":"AvailableFtux","name":"meeting_recordings_setup_finished_ftux","priority":0},{"__typename":"AvailableFtux","name":"meeting_recording_connect_calendar_banner_ftux","priority":0},{"__typename":"AvailableFtux","name":"overlays_modal_ftux","priority":0}],"avatars":[{"__ref":"Avatar:{\"thumb\":\"avatars/30924329_74e82482af7b4ef08dd2fc2d58393476_192.jpg\"}"}],"basic_video_limit":25,"capabilities":{},"checklist":{"__typename":"ChecklistItems","add_teammate":null,"complete_onboarding":true,"create_account":null,"customize_video_name":null,"download_recorder":null,"email_verified":null,"filled_account_settings":null,"first_cam_recording":null,"first_video_recording":true,"first_video_upload":null,"first_video_viewed":true,"followed_us_on_twitter":null,"has_reached_recording_limit":null,"has_viewed_screenshots":null,"liked_us_on_facebook":null,"push_notification_enabled":null,"share_video":true,"shared_first_video_on_facebook":null,"tweeted_first_video":null,"has_viewed_videos":true,"meeting_recording":null},"company_name":null,"companyPosition":null,"createdAt":"2024-06-27T22:09:05.542Z","default_workspace_id":"19606147","deletion_pending":null,"elevio_hash":"dfb648f3fa9c7cf182a11b0e3805d03ba7e6a4d957541cfe4eea7a3e879aae16","intercomHash":"b19a2b3b7ff8446916ba335dd82c03e509c976e6f3caaa5870dafceca80f7fed","hasActivatedMobile":false,"has_activated_chrome_extension":true,"has_activated_desktop_app":false,"hasWebPushSubcription":false,"help_options":null,"integration_settings":{"integrate_jira":{"expand":true,"enabled":true},"integrate_gmail":{"expand":true,"enabled":true},"integrate_github":{"expand":true,"enabled":true},"integrate_gitlab":{"expand":true,"enabled":true},"integrate_dropbox":{"expand":true,"enabled":true},"integrate_intercom":{"expand":true,"enabled":true},"integrate_invision":{"expand":true,"enabled":true},"integrate_confluence":{"expand":true,"enabled":true},"integrate_salesforce":{"expand":true,"enabled":true},"integrate_google_docs":{"expand":true,"enabled":true},"integrate_hacker_news":{"expand":true,"enabled":true},"integrate_producthunt":{"expand":true,"enabled":true},"integrate_salesforce_iq":{"expand":true,"enabled":true}},"isEducationVerified":false,"isFirstRecording":false,"isSdkSharedUser":false,"memberships({\"currentOnly\":true})":[{"__ref":"OrganizationMember:34771117"}],"notification_settings":{"video_read":true,"share_video":true,"push_video_read":false,"push_share_video":true,"push_reshare_video":true,"push_video_comments":false,"push_weekly_digests":false,"all_comments_enabled":true,"push_comment_replies":false,"push_video_reactions":false,"push_video_privacy_changed":true},"oauths":[{"__ref":"OAuth:U0659D3EWCS"}],"onboarding":{},"passwordIsSet":true,"persona":{"persona_v1":{"role":"Product","company":null,"complete":true,"use_cases":[],"company_size":null,"use_case_plan":"work","education_type":null,"other_use_case":null,"company_industry":null,"company_size_exact":null,"use_case_plan_persona":"For work"}},"recorder_settings":{},"role":"client","scopes":["ACCOUNT_NOTIFICATIONS","AUTHENTICATED_USER_ACCESS","CONTENT_UPLOAD_ACTION_READ","ENGAGEMENT_INSIGHTS_PAYWALL_LITE","FAVORITES","HELP_BUBBLE_CONTACT_SUPPORT","IMAGE_CAPTURE_ACCESS","IMAGE_CTA_ACCESS","IMAGE_EDIT_OPTIONS_ACCESS","IMAGE_ENHANCED_CAPTURE_ACCESS","IMAGE_PASSWORD_PROTECT_ACTION","IMAGE_SETTINGS_ACCESS","IMAGE_SHARE_PRIVATE_ACTION","IMAGE_SHARE_WITH_TEAM_ACTION","IMAGE_TOOLS_ACCESS","INVITE_CREATOR_LITE_ACTION","PERSONAL_ARCHIVE_READ","PERSONAL_ARCHIVE_WRITE","PERSONAL_LIBRARY_READ","PERSONAL_LIBRARY_WRITE","RECORDER_BROWSER_EXTENSION_ACCESS","RECORDING_TIMER_PAYWALL_LITE","SEARCH_ACCESS","TRANSCRIPT_SEARCH_ACCESS","SUGGESTED_WORKSPACE_BANNER","SUGGESTED_WORKSPACE_SIDEBAR","SUGGESTED_WORKSPACE_WORKSPACE_SWITCHER","TEAM_ARCHIVE_READ","TEAM_ARCHIVE_WRITE","TEAM_LIBRARY_READ","TEAM_LIBRARY_WRITE","TRANSCRIPTION_PAYWALL","VIDEO_EDIT_OPTIONS_ACCESS","VIDEO_PUBLISH_ACCESS","VIDEO_COMMUNITY_PUBLISH_ACCESS","VIDEO_RECORD_ACCESS","VIDEO_SETTINGS_ACCESS","VIDEO_SHARE_PRIVATE_ACTION","VIDEO_TOOLS_ACCESS","VIDEO_TRIM_ACCESS","WATCH_LATER","WORKSPACE_CONTACT_IMPORT_INTEGRATION_READ","WORKSPACE_PRIVACY_ACCESS","CREATE_SPACE","VIEW_CREATE_SPACE","VIEW_SPACES_ONBOARDING_TOUR","WORKSPACE_PRIVACY_RESTRICTIONS_PAYWALL","AI_QUESTIONS","AI_NUDGES"],"status":"verified","terms_accepted":true,"terms_accepted_created_at":"2024-06-27T22:09:05.541Z","triggers":[{"__typename":"CompletableTrigger","complete":false,"name":"desktop_stop_rec_tooltip","show":false},{"__typename":"CompletableTrigger","complete":false,"name":"education_user_upgraded_modal","show":true},{"__typename":"CompletableTrigger","complete":false,"name":"email_verified","show":true},{"__typename":"CompletableTrigger","complete":false,"name":"gmail_integration_share_page_upsell","show":true},{"__typename":"CompletableTrigger","complete":false,"name":"request_push_permissions","show":true},{"__typename":"CompletableTrigger","complete":false,"name":"show_avatar_tooltip","show":true},{"__typename":"CompletableTrigger","complete":false,"name":"show_data_retention_warning","show":true},{"__typename":"CompletableTrigger","complete":true,"name":"show_download_video_info_modal","show":false},{"__typename":"CompletableTrigger","complete":true,"name":"show_get_started_checklist","show":false},{"__typename":"CompletableTrigger","complete":true,"name":"show_milestone_post_recording_celebration","show":false},{"__typename":"CompletableTrigger","complete":false,"name":"show_mobile_banner_prompt","show":true},{"__typename":"CompletableTrigger","complete":false,"name":"website_show_new_get_started_checklist_banner","show":false},{"__typename":"CompletableTrigger","complete":false,"name":"new_transcript_experience_owner","show":true},{"__typename":"CompletableTrigger","complete":false,"name":"new_transcript_experience_viewer","show":true}],"videoSettings":{"__typename":"UserVideoSettings","auto_filler_word_removal":null,"auto_silence_removal":null,"show_transcript_to_viewer":null,"show_analytics_to_viewer":null,"suggested_playback_rate":null,"download_enabled":null,"record_reply_enabled":null,"viewers_can_weave_default":null,"comments_enabled":null,"comments_email_enabled":null,"use_emojis":true,"use_gif":true,"auto_cta":null,"auto_title":null,"auto_eovn":null,"auto_summary":null,"auto_chapters":null,"auto_tasks":null,"loom_branded_player":null,"noise_suppression":null,"email_gate_video_type":null,"stylizedCaptions":null,"viewerCaptionsOn":null}},"ROOT_QUERY":{"__typename":"Query","getCurrentUser":{"__typename":"GetCurrentUserPayload","user":{"__ref":"RegularUser:30924329"}}}};
+
+</script>
+
+
+<link
+  rel="stylesheet"
+  href="https://ds-cdn.prod-east.frontend.public.atl-paas.net/assets/font-rules/v3/atlassian-fonts.css"
+  as="style"
+/>
+
+<link rel="preconnect" href="https://ds-cdn.prod-east.frontend.public.atl-paas.net" />
+<link
+  rel="preload"
+  href="https://ds-cdn.prod-east.frontend.public.atl-paas.net/assets/fonts/atlassian-sans/v2/AtlassianSans-latin.woff2"
+  as="font"
+  type="font/woff2"
+  crossorigin
+/>
+<link
+  rel="preload stylesheet"
+  href="https://ds-cdn.prod-east.frontend.public.atl-paas.net/assets/font-rules/v3/atlassian-fonts.css"
+  as="style"
+/>
+
+  </head>
+
+  <body>
+    <main id="container"></main>
+
+    <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF"
+  
+      type="text/javascript"
+  >
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://evs.sgmt.loom.com/yhPeelcEJD/eejxbDiFfK.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.13.1";
+  analytics.load("rggRFsCK29LOKVGyTLpt9xoXVhNNXaP6", { "integrations": {"Google Analytics":true} });
+
+  
+  }}();
+</script>
+
+    
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/0runtime-ff6a510f3f3a8a32343d.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/react-vendor-ed81bf1a0bcfe97195cf.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/3046-190a5817925624ed5bbc.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/5216-48bbb797a4d05e2d1f69.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/550-63fb561a52276e1f94f0.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/3791-f9120de035971c8a4720.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/8993-e246da1372108102ab15.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/2638-14f6e3e3278be55cc012.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/9213-eceea285d67ec4efccef.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/8515-1c31f68cd67a56c67535.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/7598-ba6f75571ef4d236a665.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/7866-9a4828dd6bbd696b5ac3.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/5368-6e173337e527593633e2.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/85-8862740fbb19e5901c4f.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/8374-b077d48afff308f26a48.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/1864-a2bac1ab6d480f655a4b.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/8166-335c3d48d0b63ba76122.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/4349-a47e286a8fe1aed9fbf0.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/9639-8e85658dd80c9a59dc31.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/8315-0a9782589e1f69e5132a.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/6238-91ec502cee30da812132.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/686-45e4644e27fe2c9e59eb.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/6170-3c0ebcf5afc773b6205c.js"></script>
+  
+  <script nonce="d0Hl6bbeQ390qfpGG6zmeu1SsYZD0ou1r15n5L+LQ2blkZFF" src="https://cdn.loom.com/assets/js/destination-d7f9898734f2a3ac49fc.js"></script>
+  
+  </body>
+</html>
